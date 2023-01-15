@@ -35,6 +35,48 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "carrots",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "soda",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "ffasf",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "trucks",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "fdsf",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 13
     }
   ]
 }
